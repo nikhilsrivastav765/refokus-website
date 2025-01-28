@@ -1,8 +1,21 @@
-# React + Vite
+# Refokus Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based** project that replicates the **Refokus website** using cutting-edge web development tools and libraries, including **Locomotive Scroll**, **TailwindCSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Smooth Scroll with Locomotive Scroll**: Implemented smooth, inertia-based scrolling for an enhanced user experience.
+- **Responsive Design with TailwindCSS**: Built a fully responsive UI that adapts to various screen sizes.
+- **Animations with Framer Motion**: Added elegant animations and transitions to bring life to the interface.
+- **Pixel-Perfect Design**: Carefully cloned the layout and aesthetic of the Refokus website.
+
+## Demo
+
+[Insert your live demo link here if hosted, e.g., Vercel/Netlify]
+
+## Tech Stack
+
+- **React**: Frontend library for building UI components.
+- **Locomotive Scroll**: For smooth scrolling effects and scroll-based animations.
+- **TailwindCSS**: Utility-first CSS framework for fast and customizable styling.
+- **Framer Motion**: Motion library for adding animations and transitions.
