@@ -14,7 +14,7 @@ const Cards = () => {
   return (
     <div className="relative my-20">
     <Card mover={mover}/>
-    <div className="absolute top-0 w-full h-full pointer-events-none sm: hidden">
+    <div className="absolute top-0 w-full h-full pointer-events-none hidden lg:flex">
       <motion.div initial={{y : pos, x : "-50%"}} 
       animate={{y : pos+'rem'}}
       className="absolute  w-[28vw] h-[25rem] bg-white overflow-hidden rounded-xl left-[44%]">
